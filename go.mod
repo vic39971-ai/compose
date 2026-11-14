@@ -1,6 +1,6 @@
 module github.com/docker/compose/v5
 
-go 1.26.3
+go 1.26.8
 
 require (
 	github.com/AlecAivazis/survey/v2 v2.3.7
@@ -10,7 +10,7 @@ require (
 	github.com/buger/goterm v1.0.4
 	github.com/compose-spec/compose-go/v2 v2.14.1-0.20260825154407-6c1c2d727681
 	github.com/containerd/console v1.0.5
-	github.com/containerd/containerd/v2 v2.3.4
+	github.com/containerd/containerd/v2 v2.3.6
 	github.com/containerd/errdefs v1.0.0
 	github.com/containerd/platforms v1.0.0-rc.5
 	github.com/creack/pty v1.1.24
